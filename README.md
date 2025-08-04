@@ -10,7 +10,7 @@
     - Proficient in modern **JavaScript** and **TypeScript**, including effective use of state management solutions
     - Familiar with various UI libraries such as **TailwindCSS**, **Bootstrap**, and **Ant Design**
 - **Backend Development:**
-    - Able to develop backend systems using **Node.js** and **PHP (**particularly with **Laravel** and **CakePHP** frameworks)
+    - Able to develop backend systems using **Node.js** and **PHP** (particularly with **Laravel** and **CakePHP** frameworks)
     - Experienced in developing applications with **Ruby on Rails**, including experience in microservices architecture
     - Solid understanding and experience in designing and implementing **RESTful APIs**
 - **BFF (Backend for Frontend) Development:**
@@ -21,7 +21,8 @@
     - Strong collaboration skills in both development and testing workflows
     - Continuously learning and adapting to new technologies and methodologies
 
-📫 How to reach me: nhanvothanh719@gmail.com
+📫 Email: nhanvothanh719@gmail.com<br/>
+🔗 Linkedin: https://www.linkedin.com/in/nhanvt719/
 
 # 💻 Tech Stack
 ### Front-end
