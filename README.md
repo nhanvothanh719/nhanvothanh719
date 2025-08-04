@@ -2,6 +2,25 @@
 
 
 # 🐍 About Me :
+🧑‍💻 I am a passionate Full Stack Developer fortunate to have worked with a wide range of programming languages, complemented by extensive experience in modern web technologies. My expertise spans multiple frameworks, with a particular enthusiasm for **ReactJS** and **Node.js** development.
+
+- **Frontend Development:**
+    - Comfortable working **ReactJS**, particularly using the **Next.js** framework
+    - Capable of developing with **Vue.js** with **Nuxt.js** framework
+    - Proficient in modern **JavaScript** and **TypeScript**, including effective use of state management solutions
+    - Familiar with various UI libraries such as **TailwindCSS**, **Bootstrap**, and **Ant Design**
+- **Backend Development:**
+    - Able to develop backend systems using **Node.js** and **PHP (**particularly with **Laravel** and **CakePHP** frameworks)
+    - Experienced in developing applications with **Ruby on Rails**, including experience in microservices architecture
+    - Solid understanding and experience in designing and implementing **RESTful APIs**
+- **BFF (Backend for Frontend) Development:**
+    - Practical knowledge of **GraphQL** API development and integration
+- **Development Practices:**
+    - Familiar with microservices-based system design
+    - Emphasis on clean code, maintainability, and best practices
+    - Strong collaboration skills in both development and testing workflows
+    - Continuously learning and adapting to new technologies and methodologies
+
 📫 How to reach me: nhanvothanh719@gmail.com
 
 # 💻 Tech Stack
