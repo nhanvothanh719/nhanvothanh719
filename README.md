@@ -2,7 +2,6 @@
 
 
 # 🐍 About Me :
-🌱 I’m currently learning Laravel, ReactJS, NodeJS<br/>
 📫 How to reach me: nhanvothanh719@gmail.com
 
 # 💻 Tech Stack
