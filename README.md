@@ -10,7 +10,7 @@
     - Proficient in modern **JavaScript** and **TypeScript**, including effective use of state management solutions
     - Familiar with various UI libraries such as **TailwindCSS**, **Bootstrap**, and **Ant Design**
 - **Backend Development:**
-    - Able to develop backend systems using **Node.js** (particularly with **Express.js** and **Nestjs** frameworks) and **PHP** (particularly with **Laravel** and **CakePHP** frameworks)
+    - Able to develop backend systems using **Node.js** (particularly with **Express.js** and **NestJS** frameworks) and **PHP** (particularly with **Laravel** and **CakePHP** frameworks)
     - Experienced in developing applications with **Ruby on Rails**, including experience in microservices architecture
     - Solid understanding and experience in designing and implementing **RESTful APIs**
 - **BFF (Backend for Frontend) Development:**
